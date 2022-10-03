@@ -1,0 +1,1 @@
+Use Minify for compressing css and js code 
