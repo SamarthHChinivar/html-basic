@@ -1,0 +1,1 @@
+using view source code (Crtl+U)[Windows] feature of browser , we can clone a single page of any webite.
