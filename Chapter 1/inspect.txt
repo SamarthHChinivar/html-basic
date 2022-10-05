@@ -1,1 +1,0 @@
-using inspect feature of browser , we can clone a single page of any webite.
